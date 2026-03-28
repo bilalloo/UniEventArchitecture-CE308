@@ -11,7 +11,7 @@ The system architecture is explicitly designed to be secure, scalable, and fault
 ## Repository Contents
 * **Web Files & Source Code:** All application source code and web files required to run the event fetching and display logic are uploaded to this repository.
 * **Architecture Evidence:** Screenshots detailing the configuration of the VPC, IAM roles, S3 buckets, EC2 instances, and the Application Load Balancer are included in the repository.
-* **Evidence screenshots of the VPC, IAM, S3, EC2, and Load Balancer are attached in this repository.
+* **Screenshots:** Evidence screenshots of the VPC, IAM, S3, EC2, and Load Balancer are attached in this repository.
 
 ## Live Access
 * **Application Load Balancer URL:** `UniEvent-ALB-1619398761.eu-north-1.elb.amazonaws.com`
