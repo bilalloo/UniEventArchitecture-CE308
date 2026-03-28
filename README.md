@@ -4,9 +4,9 @@ CE308 Cloud Computing
 [cite_start]**Course:** CE 308/408 Cloud Computing - Assignment 1 [cite: 2, 3]
 
 ## Project Overview
-[cite_start]UniEvent is a cloud-hosted web application designed to act as a centralized platform for students to browse university events, register for activities, and view event-related media[cite: 5]. [cite_start]To eliminate manual data entry, the system automatically fetches event data from an external Open API, treating them as official university events[cite: 8, 9, 11]. 
+UniEvent is a cloud-hosted web application designed to act as a centralized platform for students to browse university events, register for activities, and view event-related media[cite: 5]. [cite_start]To eliminate manual data entry, the system automatically fetches event data from an external Open API, treating them as official university events[cite: 8, 9, 11]. 
 
-[cite_start]The system architecture is explicitly designed to be secure, scalable, and fault-tolerant, ensuring high availability even during peak registration periods and potential instance failures[cite: 6, 7, 23].
+The system architecture is explicitly designed to be secure, scalable, and fault-tolerant, ensuring high availability even during peak registration periods and potential instance failures[cite: 6, 7, 23].
 
 ## Repository Contents
 * **Web Files & Source Code:** All application source code and web files required to run the event fetching and display logic are uploaded to this repository.
